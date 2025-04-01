@@ -16,7 +16,7 @@ Ramen Rater is a simple web application where users can view, rate, and add rame
 ## 🚀 Getting Started 
 1. Clone the repository:  
    ```sh
-   git clone 
+   git clone git@github.com:Mathew-Rym/Ramen-rating-app.git
    ```  
 2. Navigate into the cloned directory:  
    ```sh
